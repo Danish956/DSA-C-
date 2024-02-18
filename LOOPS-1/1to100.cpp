@@ -5,6 +5,8 @@ int main(){
     cout<<"Enter the number";
     cin>>n;
     for(int i = 1; i<=n; i++){
+
         cout<<i<<endl;
     }
-}
+    
+    }
